@@ -242,24 +242,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CREDITS_TXT = """<b>
 ❤️‍🩹 <u>ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ</u>
 
-• ʀᴇᴘᴏ ᴏᴡɴᴇʀ : <a href="https://t.me/Virus_Botz/34">Hᴀʀꜱʜᴀʟ ❤️‍🔥</a>
-• ʙᴀꜱᴇ ʀᴇᴘᴏ : <a href="https://t.me/Virus_Botz/34">Jᴏᴇʟ ᠰ TɢX</a>
-• sᴛʀᴇᴀᴍ ғᴇᴀᴛᴜʀᴇ : <a href="https://t.me/Virus_Botz/34">LazyDeveloper</a>
-• sᴛʀᴇᴀᴍ ᴡᴇʙꜱɪᴛᴇ : <a href="https://t.me/Virus_Botz/34">Bɪɪsᴀʟ</a>
-• ᴘʀᴇᴍɪᴜᴍ ᴄᴏᴅᴇꜱ : <a href="https://t.me/Virus_Botz/34">Rɪꜱʜɪᴋᴇꜱʜ</a>
-• ᴡᴇʟᴄᴏᴍᴇ ᴀɴɪᴍᴀᴛɪᴏɴ : <a href="https://t.me/Virus_Botz/34">𝑿𝒂𝒗𝒊𝒆𝒓</a>
-• ꜱᴛʀᴇᴀᴍ ꜱʜᴏʀᴛʟɪɴᴋ : <a href="https://t.me/Virus_Botz/34">⚝𝗠𝗿.𝗦𝗣𝗜𝗗𝗬⚝</a>
+• ʙᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴠɪʀᴜs ʙᴏᴛᴢ
+• ʀᴇᴘᴏ ᴇᴅɪᴛᴏʀ : <a href="https://t.me/MrVirus02">會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』</a>
 
 ɪ ᴀᴍ ꜱᴏʀʀʏ ɪꜰ ɪ ꜰᴏʀɢᴏᴛ ꜱᴏᴍᴇᴏɴᴇ 🫂
-ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ᴛʜɪꜱ ᴀᴍᴀᴢɪɴɢ ʀᴏʟʟᴇʀ ᴄᴏᴀꜱᴛᴇʀ ᴊᴏᴜʀɴᴇʏ 🚀</b>
-""" 
+ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ᴛʜɪꜱ ᴀᴍᴀᴢɪɴɢ ʀᴏʟʟᴇʀ ᴄᴏᴀꜱᴛᴇʀ ᴊᴏᴜʀɴᴇʏ 🚀</b>""" 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """<b>💫 ʝσιɳ : <a href=https://t.me/Virus_Networks/4>會๛『 𝐕𝐢𝐫𝐮𝐬 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 』</a>
-
-🎬 тιтℓє : <a href=https://t.me/Virus_Studios/436>{file_name}</a>
-
-♻️ ѕιzє ➠ : {file_size}</b>"""
+    CAPTION = """{file_name}"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
@@ -274,9 +264,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 〄 Story : {plot}
 
-會 ʝσιɳ ๛『 @Virus_Studios 』
 
-會 ʝσιɳ ๛『 @Virus_Networks 』</b>
+會 ʝσιɳ ๛『 @BoB_Files1 』</b>
 """
     
 
@@ -288,7 +277,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ @VIRUS_STUDIOS_Filter_Bot</b>"""
+Bʏ @Naruto_Uzumaki99_bot</b>"""
 
     LOGO = """
 
