@@ -9,7 +9,7 @@ class script(object):
 
     ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : {}
     ‣ ᴏᴡɴᴇʀ : <a href='https://t.me/BoB_Files1'>ʙᴏʙ ғɪʟᴇs</a>
-    ‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Virus_botz'>會๛『 Vιяυѕ ßσтz 』</a>
+    ‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Virus_botz'>ᴠɪʀᴜs ʙᴏᴛᴢ</a>
     ‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
     ‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
     ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
@@ -299,8 +299,8 @@ BOT WORKING PROPERLY"""
 ● <code>239₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>360 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>vmp.070403-1@okicici</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>Mishraji99@fam</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/db1d1f4ebf34bd1cb7ac8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -316,8 +316,8 @@ BOT WORKING PROPERLY"""
 ● <code>239₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>360 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>vmp.070403-1@okicici</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>Mishraji99@fam</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/db1d1f4ebf34bd1cb7ac8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
