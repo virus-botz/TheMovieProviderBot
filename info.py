@@ -31,7 +31,7 @@ CODE = (environ.get('CODE', 'https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg')
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
 STREAM_API = (environ.get('STREAM_API', 'vg5WHWLa4iZ6G1HlAQim2H99llw1'))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Virus_Studios/386?single'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Virus_Botz/34'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2057170163').split()]
